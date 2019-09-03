@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+I love ython and Java!
+=======
 I love Java!
+>>>>>>> c0cfbe181a4b78dc953b4be0275cf35ab9c126d6
